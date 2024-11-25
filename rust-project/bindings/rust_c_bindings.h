@@ -4,3 +4,5 @@
 #include <stdlib.h>
 
 uint64_t rust_function(void);
+
+uint8_t intern(void);
